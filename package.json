@@ -1,15 +1,18 @@
 {
   "name": "sss102-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
-  "keywords": [
-    "syntax",
-    "theme"
-  ],
-  "repository": "https://github.com/atom/sss102-syntax",
+  "version": "0.1.1",
+"description": "หวยslot✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"หวยslot",
+"แทงหวยออนไลน์",
+"lottovip รวยออนไลน์",
+"เว็บแทงหวยลาว",
+"ซื้อหวยวันไหนดี"
+],
+  "repository": "https://github.com/setteebet/sss102-syntax.git",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  }
+"atom": ">=1.0.0 <2.0.0"
+}
 }
